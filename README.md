@@ -1,0 +1,2 @@
+# Bibilo-Bible
+ I want to develop and android app for charity, but am a novice to android programming with little or no android knowledge but I have all the raw materials for this app. The App is Bibilo (Bible) in TIv Language of Nigeria. I need help on how to make the source codes for the whole bible (Bibilo) to search text/verses/chapters, share content on facebook, whatsapp, bbm etc, zoom, copy, font sizing/resizing, Next and Previous, please.
